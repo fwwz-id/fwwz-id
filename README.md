@@ -6,6 +6,9 @@ I’m currently learning javascript, typescript, and python. My main field is Fr
 
 You can reach me on fwwz.id@proton.me
 
-![Fawwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fwwz-id&show_icons=true&theme=dark&count_private=true)
+<!-- ![Fawwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fwwz-id&show_icons=true&theme=dark&count_private=true) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwwz-id&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=fwwz-id&layout=compact&theme=dark)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwwz-id&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=fwwz-id&layout=compact&theme=dark) -->
+
+![](https://raw.githubusercontent.com/fwwz-id/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/fwwz-id/github-stats/master/generated/languages.svg#gh-dark-mode-only)
