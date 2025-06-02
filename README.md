@@ -4,7 +4,7 @@ My name is Fawwaz Abdurrahim (he/him), a person that likes to write code and twe
 
 I'm currently diving into the world of web development, with a focus on the front-end side and do some of back-end stuff. But my curiosity doesn't stop there! I'm also expanding my skillset by learning machine learning and C, along with exploring other exciting tech areas. My thirst for knowledge keeps me constantly learning and growing in the ever-evolving world of technology.
 
-You can reach me on fwwz.id@gmail.me
+You can reach me on fwwz.id@gmail.com
 
 <!-- ![Fawwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fwwz-id&show_icons=true&theme=dark&count_private=true) -->
 
